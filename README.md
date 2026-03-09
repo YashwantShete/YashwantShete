@@ -58,18 +58,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashwantShete&show_icons=true&theme=tokyonight&hide_border=true" alt="Yashwant's GitHub stats" width="48%" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwantShete&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwantShete&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
 
 ---
 <div align="center">
