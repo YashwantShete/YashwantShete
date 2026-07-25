@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yashwant%20Shete&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Passionate%20about%20Tech%20%7C%20Builder%20%7C%20Learner&descAlignY=55&descAlign=62" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Second+Year+BCA+Student;19-year-old+Tech+Enthusiast;Web+Developer+%7C+Programmer;Turning+Ideas+into+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Third+Year+BCA+Student;19-year-old+Tech+Enthusiast;Web+Developer+%7C+Programmer;Turning+Ideas+into+Code!" alt="Typing SVG" />
   </a>
 </div>
 
