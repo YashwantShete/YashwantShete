@@ -12,7 +12,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding boy gif" />
 
-- 🎓 I'm a **Second Year BCA student** currently focused on improving my development skills.
+- 🎓 I'm a **Third Year BCA student** currently focused on improving my development skills.
 - 💡 I'm **19 years old** and highly passionate about technology, AI, and building impactful projects.
 - 🚀 Exploring web development, backend systems, and leveraging AI tools to optimize workflows.
 - ⚽ When I'm not coding, you'll find me listening to **Music**, playing **Football**, **Travelling**, or **Gaming**.
